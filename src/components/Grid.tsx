@@ -3,7 +3,7 @@ import { Pixel } from './Pixel.tsx';
 import Toolbar from "./Toolbar.tsx";
 
 function Grid() {
-  const DEFAULT_SIZE = 225;
+  const DEFAULT_SIZE = 32*32;
   const DEFAULT_BACKGROUND_COLOR = 'white';
   const DEFAULT_COLOR = '#F58616';
 
